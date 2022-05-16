@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://parabank.parasoft.com/",
+  "testFiles": "**/*.feature",
+  "integrationFolder": "cypress/features"
+}
